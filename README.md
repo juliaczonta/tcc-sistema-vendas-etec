@@ -76,7 +76,7 @@ Tela de autenticação para acesso à conta do cliente.
 
 ---
 
-### Área do Cliente  
+### Conta do Cliente  
 Área destinada ao usuário autenticado, com acesso a informações e funcionalidades da conta.
 
 ![Área do cliente](imagens/conta-cliente.png)
