@@ -85,8 +85,3 @@ Tela de autenticação para acesso à conta do cliente.
 O arquivo completo do TCC está disponível neste repositório.
 - Trabalhar na organização e documentação de sistemas  
 - Atuar em equipe no desenvolvimento de um projeto completo  
-
----
-
-## 📄 Documentação
-O arquivo completo do TCC está disponível neste repositório.
