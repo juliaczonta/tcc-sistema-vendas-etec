@@ -67,6 +67,20 @@ Tela exibida após a finalização da compra, confirmando o pedido realizado.
 
 ---
 
+## 🔐 Funcionalidades Adicionais
+
+### Login de Usuário  
+Tela de autenticação para acesso à conta do cliente.
+
+![Login](imagens/login.png)
+
+---
+
+### Área do Cliente  
+Área destinada ao usuário autenticado, com acesso a informações e funcionalidades da conta.
+
+![Área do cliente](imagens/conta-cliente.png)
+
 ## 📄 Documentação
 O arquivo completo do TCC está disponível neste repositório.
 - Trabalhar na organização e documentação de sistemas  
